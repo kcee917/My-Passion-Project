@@ -1,0 +1,19 @@
+{
+  "name": "my-passion-project",
+  "description": "This is my final project for Code Differently. This project is just the beginning of an message app that I would like to create and expand on over time. I am only using html, css, and javascript.",
+  "version": "1.0.0",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kcee917/My-Passion-Project.git"
+  },
+  "author": "Kim Chase",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kcee917/My-Passion-Project/issues"
+  },
+  "homepage": "https://github.com/kcee917/My-Passion-Project#readme"
+}
